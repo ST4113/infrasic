@@ -1,35 +1,66 @@
-# Infrasic
+# Infrasic Intelligence — Business Website
 
-A business website developed to provide **Infrasic** with a dedicated online presence.
+A client website developed for **Infrasic Intelligence (OPC) Private Limited**, a specialist firm working in forensic investigation, financial intelligence and digital forensics.
 
-## Live Website
+🌐 **Live website:** https://infrasic.in/
 
-**[https://infrasic.in/](https://infrasic.in/)**
+## About the Client
 
-## Project Overview
+Infrasic Intelligence provides investigative and intelligence services to organisations dealing with complex financial, corporate and digital matters.
 
-This project focuses on a responsive web experience for presenting business information and providing visitors with an online point of reference for the company.
+Its areas of work include:
+
+- Forensic and fraud investigations
+- Financial investigations and forensic accounting
+- Digital forensics and technical investigations
+- Financial intelligence and transaction analysis
+- Fund flow analysis and asset tracing
+- Due diligence and corporate intelligence
+- Tax and GST intelligence
+- Fraud risk assessment and investigation support
+- Litigation and evidence-related support
+
+The firm's work combines financial analysis, technology, data analytics and investigative methods to help clients identify irregularities, understand financial relationships and make evidence-informed decisions.
+
+## Website Overview
+
+The website introduces the firm's specialist services and provides a professional digital presence for organisations and individuals seeking investigative, forensic or financial intelligence support.
+
+### Website Objectives
+
+- Communicate the firm's services and areas of expertise.
+- Explain complex investigation and intelligence offerings clearly.
+- Establish a professional online presence.
+- Provide visitors with a way to contact the firm for enquiries.
+
+## Development Scope
+
+- Custom business website development
+- Responsive frontend and page layouts
+- Professional service-oriented content presentation
+- Company and service information architecture
+- Contact and enquiry-oriented sections
+- Website deployment and domain configuration
 
 ## Technology
 
 - React
 - TypeScript
 
-## Project Scope
+## Project Information
 
-- Custom website development
-- Responsive frontend
-- Business information presentation
-- Domain and hosting configuration
-- Website deployment
+| | |
+|---|---|
+| Project type | Client website |
+| Client industry | Business consulting, forensic investigation and financial intelligence |
+| Website | [infrasic.in](https://infrasic.in/) |
+| Repository purpose | Portfolio documentation |
 
 ## About This Repository
 
-This is a **portfolio repository** containing project information only. It does not contain the original website source code, client assets, credentials, or deployment configuration.
+This repository documents the website project for portfolio purposes. It does not contain the client's proprietary source code, private assets, credentials or deployment configuration.
 
 ## Developer
 
 **Shubhang Trivedi**  
 [GitHub](https://github.com/ST4113) · [LinkedIn](https://www.linkedin.com/in/shubhang-trivedi-969773248/) · [Email](mailto:shubhangtrv@gmail.com)
-
----
